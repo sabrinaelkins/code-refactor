@@ -17,6 +17,3 @@ Implement the following user story:
 * It's done when they fall in sequential order when I view the title element.
 
 * It's done when I add a consise, discriptive title
-
-## Assets
-
